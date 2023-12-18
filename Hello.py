@@ -38,6 +38,5 @@ print(dictno)
 dictno[10]=56
 print(dictno)
 
-abc
 
 

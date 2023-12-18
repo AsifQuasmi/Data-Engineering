@@ -14,6 +14,6 @@ c=c^d
 d=c^d
 c=c^d
 print(c,d)
-
+print(c,d)
 c,d =d,c
-print()
+print(c,d)
