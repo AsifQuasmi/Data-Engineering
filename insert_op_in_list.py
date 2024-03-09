@@ -21,3 +21,6 @@ value = 50
 list1.append(value)
 list1.sort()
 logger.info(list1)
+
+for i in list1:
+    print(i, end =" ")
